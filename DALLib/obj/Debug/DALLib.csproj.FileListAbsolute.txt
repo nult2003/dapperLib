@@ -1,0 +1,14 @@
+C:\zStudy\Practice\Study\DALLib\bin\Debug\DALLib.exe.config
+C:\zStudy\Practice\Study\DALLib\bin\Debug\DALLib.exe
+C:\zStudy\Practice\Study\DALLib\bin\Debug\DALLib.pdb
+C:\zStudy\Practice\Study\DALLib\bin\Debug\Dapper.dll
+C:\zStudy\Practice\Study\DALLib\bin\Debug\Slapper.dll
+C:\zStudy\Practice\Study\DALLib\bin\Debug\Dapper.xml
+C:\zStudy\Practice\Study\DALLib\bin\Debug\Slapper.pdb
+C:\zStudy\Practice\Study\DALLib\bin\Debug\Slapper.xml
+C:\zStudy\Practice\Study\DALLib\obj\Debug\DALLib.csprojResolveAssemblyReference.cache
+C:\zStudy\Practice\Study\DALLib\obj\Debug\DALLib.Properties.Resources.resources
+C:\zStudy\Practice\Study\DALLib\obj\Debug\DALLib.csproj.GenerateResource.Cache
+C:\zStudy\Practice\Study\DALLib\obj\Debug\DALLib.csproj.CoreCompileInputs.cache
+C:\zStudy\Practice\Study\DALLib\obj\Debug\DALLib.exe
+C:\zStudy\Practice\Study\DALLib\obj\Debug\DALLib.pdb
