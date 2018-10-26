@@ -23,9 +23,13 @@ namespace DALLib.Tests
         [TestMethod()]
         public void GetAllTest()
         {
+#if DEBUG
             IDALQuoteLane dalQuoteLane = new DALQuoteLane();
             IBLLQuoteLane _bllQuoteLane = new BLLQuoteLane(dalQuoteLane);
-            //mockIDALQuoteLane.Setup(c => c.GetAll()).Returns(new List<Customers>());
+#else
+            IBLLQuoteLane _bllQuoteLane = new BLLQuoteLane(mockIDALQuoteLane.Object);
+            mockIDALQuoteLane.Setup(c => c.GetAll()).Returns(new List<Customers>());            
+#endif
             var result = _bllQuoteLane.GetAll();
             Assert.IsNotNull(result);
             Assert.AreNotEqual(0, result.Count);

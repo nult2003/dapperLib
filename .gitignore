@@ -3,3 +3,9 @@
 ################################################################################
 
 /DALLib/obj/Debug
+/DALLibTests/obj/Debug
+/dapperRepositoryLib/bin/Debug
+/dapperRepositoryLib/obj/Debug
+/packages
+/TestResults/7e035c98-f49e-483d-9bc1-891d7e88ad1a
+/.vs/Study/v15/Server/sqlite3
